@@ -1,0 +1,1 @@
+slope.tif fue generado usando google colab, no hace falta incluirlo porque se genera al ejecutar el .ipynb, lo dejo aquí porque el enunciado lo indica.
